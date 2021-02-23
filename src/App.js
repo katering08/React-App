@@ -12,6 +12,7 @@ function App() {
         <Cards></Cards>
         <Cards></Cards>
         <Cards></Cards>
+        <Cards></Cards>
       </CardHolder>
     </section>
   );
