@@ -1,5 +1,5 @@
 import "./Header.css";
-import logo from './../../imgs/anime.png';
+import logo from '../../imgs/anime.png';
 
 function Header(){
   return (
