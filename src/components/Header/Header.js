@@ -1,10 +1,10 @@
 import "./Header.css";
-import logo from '../assets/imagenes';
+import logo from './../../imgs/anime.png';
 
 function Header(){
   return (
     <header>
-        <img src={logo.logo}/>
+        <img src={logo}/>
     </header>
   );
 }
